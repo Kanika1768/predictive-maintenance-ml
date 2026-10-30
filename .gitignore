@@ -34,4 +34,4 @@ data/processed/*
 !data/processed/.gitkeep
 
 *.tmp
-*.swp
+*.swp.history/
